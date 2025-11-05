@@ -1,0 +1,9 @@
+{
+  "name": "tsconfig-paths-bug-reproduction",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "pnpm -F bug dev"
+  }
+}
