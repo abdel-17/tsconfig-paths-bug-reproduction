@@ -9,12 +9,7 @@
     "verbatimModuleSyntax": true,
     "resolveJsonModule": true,
     "noEmit": true,
-    "baseUrl": ".",
-    "paths": {
-      "~/*": ["src/*"],
-      "$lib/*": ["src/lib/*"],
-      "$ui/*": ["src/lib/components/ui/*"]
-    }
+    "baseUrl": "."
   },
   "include": ["src"]
 }
